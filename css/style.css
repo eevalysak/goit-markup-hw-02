@@ -1,53 +1,11 @@
+ /*font-family: "Raleway", sans-serif;
+font-family: "Roboto Condensed", sans-serif;
+{}*/ 
 body {
-    font-family: 'Roboto', sans-serif;
+    font-family: "Roboto", sans-serif;
+    font-family: "Raleway", sans-serif;
     color: #434455;
+    background-color: #FFFFFF;
     
-    background-color: #ffffff;
-    line-height: 1.5;
 }
 
-a {
-    text-decoration: none;
-    color: inherit;
-}
-
-ul {
-    list-style: none;
-}
-
-
-.logo {
-    font-family: 'Raleway', sans-serif;
-    font-weight: 700;
-    font-size: 18px;
-    text-transform: uppercase;
-    color: #4d5ae5;
-}
-
-.logo-accent {
-    color: #2e2f42;
-}
-
-
-.nav-link:hover,
-.nav-link:focus,
-.contact-link:hover,
-.contact-link:focus {
-    color: #404bbf;
-}
-
-.section-title {
-    font-size: 36px;
-    font-weight: 700;
-    text-align: center;
-}
-
-.portfolio-item-title {
-    font-size: 20px;
-    font-weight: 500;
-}
-
-.portfolio-item-text {
-    font-size: 16px;
-    color: #434455;
-}
